@@ -1,0 +1,1 @@
+2016-07-11 15:22:15 | COM port is already open
