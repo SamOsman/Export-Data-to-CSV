@@ -1,4 +1,4 @@
-# Sensor_log_1.5.py
+# Sensor_log_1.5
 last version of program, data is read line by line from a text file foundon the Intel Edison. 
 Based on the type of data incoming, the program wold stire it in the approprite table. 
 
